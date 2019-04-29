@@ -2,6 +2,10 @@
 
 Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
 
+*Note*:
+Python 3.7 doesn't currently work due to change in silent swallowing of stop iteration. Upgrade will need to take place.
+Currently using 3.6.
+
 * Python 2.7+ or 3.x
 * Pytest
 * Heroku
